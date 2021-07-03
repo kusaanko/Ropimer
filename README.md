@@ -22,7 +22,7 @@ Vulkanを使用するため、Vulkanに対応したGPUが必要になります�
 こちらはOpenCVを利用したCPUでの処理、OpenGL(Vulkan)でのレンダリングに対応しようと思います。  
 これがうまく行けば画像処理をGPU、CPUどちらで行うか選べるようになります。  
 また、OpenGLが利用できるようになるので幅広いデバイスに対応できるようになると思います。  
-OpenGLでのGLSL compute shaderに対応する予定はありません。
+OpenGLでのGLSL compute shaderにも対応するかもしれません。
 
 # Ropimerの方向性
 
